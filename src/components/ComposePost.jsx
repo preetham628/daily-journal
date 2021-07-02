@@ -1,5 +1,6 @@
 import { PinDropSharp } from "@material-ui/icons";
 import React from "react";
+import App from "./App"
 
 function ComposePost(props){
 
@@ -23,6 +24,7 @@ function ComposePost(props){
             content:""
         });
         //event.preventDefault();
+
     }
 
     return (

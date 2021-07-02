@@ -71,3 +71,15 @@ html {
     color: #fff;
   }
   
+  .eachPost button{
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #f5ba13;
+    border: none;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 100%;
+  } 
